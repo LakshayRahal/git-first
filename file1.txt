@@ -1,1 +1,4 @@
 i have successfully created ssh key
+
+
+i have not write full push statement ie git push origin main 
